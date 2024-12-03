@@ -1,0 +1,20 @@
+* {
+    margin: 0;
+    background-color: pink;
+}
+
+h1 {
+    text-align: center;
+    margin: 50px auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: 100px;
+}
+
+ul {
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 80px;
+    font-style: italic;
+    margin: 50px auto;
+}
